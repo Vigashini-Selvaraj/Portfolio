@@ -4,7 +4,7 @@ export default function Projects() {
       title: "Tutorix",
       description:
         "An AI-powered learning assistant that helps students clarify doubts in real-time, offering personalized explanations and guidance through an interactive, prompt-based interface.",
-      img: "./src/assets/pro1.png",
+      img: "/assets/pro1.png",
       tech: ["HTML", "CSS", "React", "Gemini API"],
       demo: "http://vijaysudhakar-s.github.io/Tutorix/",
       github: "http://github.com/Vigashini-Selvaraj"
@@ -13,7 +13,7 @@ export default function Projects() {
       title: "HerWellness",
       description:
         "A personalized wellness platform providing AI-driven health insights, self-care guidance, and interactive support to help users achieve holistic well-being..",
-      img: "./src/assets/pro2.png",
+      img: "/assets/pro2.png",
       tech: ["React", "MongoDB", "Gemini API", "Bootstrap"],
       demo: "https://herwellness.netlify.app/",
       github: "http://github.com/Vigashini-Selvaraj"

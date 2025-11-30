@@ -26,7 +26,7 @@ export default function About() {
           {/* Image in Circle and Center */}
           <div className="flex justify-center">
             <img
-  src="./src/assets/pic-removebg-preview.png"
+  src="/assets/pic-removebg-preview.png"
   alt="Profile"
   className="w-48 h-48 lg:w-64 lg:h-64 rounded-full border-4 border-white shadow-xl object-cover"
 />
